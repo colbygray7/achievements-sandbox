@@ -1,0 +1,26 @@
+{
+  "name": "@colbygray7/slugify",
+  "version": "1.0.0",
+  "description": "Tiny zero-dependency string-to-slug utility",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node --test test.js"
+  },
+  "keywords": [
+    "slug",
+    "slugify",
+    "url"
+  ],
+  "author": "Colby",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colbygray7/achievements-sandbox.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
